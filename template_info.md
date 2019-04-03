@@ -2,7 +2,7 @@
 
 ```json
 {
-  "name": "Elasticsearch Cluster-sample",
+  "name": "Elasticsearch Cluster",
   "type": "terraform",
   "app": "elasticsearch",
   "target_cloud": "aws",
